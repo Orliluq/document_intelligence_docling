@@ -47,14 +47,6 @@ El artículo explica por qué extraer texto no siempre es suficiente, qué aport
 
 El notebook contiene la implementación paso a paso. Puedes abrirlo desde GitHub y llevarlo a Google Colab para ejecutarlo.
 
-> 🚀 **¿Quieres el botón “Open in Colab”?** Cuando el repositorio esté publicado en GitHub, reemplaza `USUARIO` y `NOMBRE-DEL-REPOSITORIO` en este enlace y úsalo como badge en esta sección:
->
-> ```markdown
-> [![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/NOMBRE-DEL-REPOSITORIO/blob/main/Document_Intelligence_Docling_Colab.ipynb)
-> ```
->
-> Así evitamos dejar un enlace roto antes de conocer la URL definitiva del repositorio. 😉
-
 ---
 
 ## 🧠 ¿Qué problema estamos resolviendo?
