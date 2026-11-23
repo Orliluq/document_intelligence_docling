@@ -1,0 +1,82 @@
+# ============================================================
+# 🦙 Document Intelligence — archivos que no necesitamos subir
+# ============================================================
+
+# --- Python: bytecode y caché --------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# --- Entornos virtuales --------------------------------------
+.venv/
+venv/
+env/
+ENV/
+
+# --- Jupyter / Google Colab ----------------------------------
+.ipynb_checkpoints/
+*.ipynb_checkpoint
+
+# --- Configuración local y secretos --------------------------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# --- Documentos de entrada: evita publicar archivos privados --
+# Si necesitas compartir un PDF de ejemplo, utiliza datos sintéticos
+# y colócalo en examples/ para permitir una excepción controlada.
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.odt
+*.ods
+*.odp
+!examples/**/*.pdf
+!examples/**/*.docx
+
+# Directorios habituales para datos privados o cargas locales
+/data/
+/datasets/
+/uploads/
+/documentos_privados/
+/private_docs/
+
+# --- Resultados generados por el notebook --------------------
+/resultados_docling/
+/document_intelligence_demo/
+/outputs/
+/artifacts/
+*.zip
+
+# Imágenes temporales de trabajo (no afecta assets/ del proyecto)
+/tmp_images/
+/temp_images/
+
+# --- Cachés de modelos y herramientas de IA ------------------
+.cache/
+.huggingface/
+.model_cache/
+
+# --- Logs y archivos temporales -------------------------------
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# --- Editores e IDEs ------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
