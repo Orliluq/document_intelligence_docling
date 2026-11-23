@@ -111,7 +111,7 @@ flowchart TD
 
 No necesitas configurar un entorno local para seguir el laboratorio.
 
-1. Abre [`Document_Intelligence_Docling_Colab.ipynb`](./Document_Intelligence_Docling_Colab.ipynb) desde GitHub.
+1. Abre [`Document_Intelligence_Docling_.ipynb`](./Document_Intelligence_Docling.ipynb) desde GitHub.
 2. Selecciona **Open in Colab** o descarga el archivo y súbelo a [Google Colab](https://colab.research.google.com/).
 3. Ejecuta las celdas en orden, desde el principio.
 4. Espera a que Docling instale sus dependencias y prepare los modelos necesarios. La primera conversión puede tardar más por las descargas iniciales.
