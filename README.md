@@ -41,6 +41,8 @@ Este repositorio reúne dos recursos que se complementan, pero no cuentan exacta
 
 El artículo explica por qué extraer texto no siempre es suficiente, qué aporta Docling, cómo pensar el flujo documental y qué debemos validar antes de conectar los resultados con una aplicación de IA.
 
+[**Codemotion Magazine**](https://www.codemotion.com/magazine/es/inteligencia-artificial/como-preparar-documentos-complejos-para-la-ia/)
+
 ### 🧪 Después: abre el laboratorio
 
 **[Document Intelligence con Python, Docling y Google Colab](./Document_Intelligence_Docling.ipynb)**
